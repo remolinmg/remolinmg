@@ -5,9 +5,6 @@
 
 ### <div align="center">I am an IT graduate that specializes in UI/UX and Front-end Web Development. I am decently proficient in using Figma to create wireframes, UI and prototypes, and I mostly use MERN stack for Web Development. </div>  
 
-## Portfolio Website: 
-https://remolinmg.great-site.net/
-  
 
 <br/>  
 

@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I am an IT graduate that specializes in UI/UX and Front-end Web Development. I am decently proficient in using Figma to create wireframes, UI and prototypes, and I mostly use MERN stack for Web Development. </div>  
+### <div align="center">I am an IT fresh-grad under the program of BS Information Technology with Specialization in Mobile and Web Application. My skills revolve around web designing and web development. I am decently proficient in creating wireframes, storyboard, and prototypes using Figma for web designing, and I am experienced in different stacks and technologies in web development such as MERN stack, NextJs, and WordPress Elementor. </div>  
 
 
 <br/>  
